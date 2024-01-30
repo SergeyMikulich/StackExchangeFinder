@@ -1,0 +1,13 @@
+.list {
+    min-height: 95vh;
+    margin: 0 auto;
+    width: 80%;
+    justify-content: space-between;
+    align-items:flex-end;
+    flex-direction: column;
+    display: flex;
+    background-color: white;
+    .list_items {
+        gap: 1em;
+    }
+}

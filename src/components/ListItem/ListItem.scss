@@ -1,0 +1,16 @@
+.list_item {
+    box-shadow: none;
+    border-radius: 0px;
+    width: 100%;
+    border-bottom: 1px solid gray;
+    .owner_name {
+        &:hover {
+            cursor: pointer;
+            text-decoration: underline;
+        }
+    }
+
+    .item_title {
+        cursor: pointer;
+    }
+}

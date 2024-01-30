@@ -1,0 +1,27 @@
+.search {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 70%;
+    margin: 0 auto;
+    position: relative;
+
+    input {
+        flex: 1;
+        border-radius: 4px;
+        font-size: 16px;
+        outline:none;
+
+        &:focus-visible {
+            outline:none;
+        }
+    }
+
+    .btn {
+        position: absolute;
+        right: 10px;
+        cursor: pointer;
+        color: #666;
+    }
+}
