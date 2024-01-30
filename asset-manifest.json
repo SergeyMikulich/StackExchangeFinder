@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StackExchangeFinder/static/css/main.5182eb19.css",
+    "main.js": "/StackExchangeFinder/static/js/main.95c5e40a.js",
+    "static/js/787.74723814.chunk.js": "/StackExchangeFinder/static/js/787.74723814.chunk.js",
+    "index.html": "/StackExchangeFinder/index.html",
+    "main.5182eb19.css.map": "/StackExchangeFinder/static/css/main.5182eb19.css.map",
+    "main.95c5e40a.js.map": "/StackExchangeFinder/static/js/main.95c5e40a.js.map",
+    "787.74723814.chunk.js.map": "/StackExchangeFinder/static/js/787.74723814.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5182eb19.css",
+    "static/js/main.95c5e40a.js"
+  ]
+}
